@@ -1,1 +1,3 @@
-# Automated-ground-truth-without-labelling
+# Awesome Planetary Terrain AI
+
+This repo contains studies related to inter planetary studies. 
